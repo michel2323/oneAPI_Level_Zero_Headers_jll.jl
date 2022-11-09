@@ -1,0 +1,9 @@
+[[oneAPI_Level_Zero_Headers]]
+arch = "x86_64"
+git-tree-sha1 = "e767336c4519aef39734ad0abf7da91b05577dae"
+libc = "glibc"
+os = "linux"
+
+    [[oneAPI_Level_Zero_Headers.download]]
+    sha256 = "41d7655fef566babd9c70395fc369833857a49145240b7b6031c807557b36ba5"
+    url = "https://github.com/michel2323/oneAPI_Level_Zero_Headers_jll.jl/releases/download/oneAPI_Level_Zero_Headers-v1.4.8+1/oneAPI_Level_Zero_Headers.v1.4.8.x86_64-linux-gnu.tar.gz"
